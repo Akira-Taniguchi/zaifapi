@@ -3,7 +3,7 @@
 :snake: zaifapi [![](https://img.shields.io/pypi/v/zaifapi.svg)](https://pypi.org/project/zaifapi/) [![](https://travis-ci.org/techbureau/zaifapi.svg?branch=master)](https://travis-ci.org/techbureau/zaifapi)
 ======================
 zaifが公開しているAPIを簡単に呼べるようにしました。  
-本モジュールはテックビューロ非公式です。ご利用は自己責任でご自由にどうぞ。
+本モジュールはテックビューロ(というかフィスコ)非公式です。ご利用は自己責任でご自由にどうぞ。
 
 使い方
 ------
